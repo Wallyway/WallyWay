@@ -1,5 +1,5 @@
 ### Hello, I'm Sebastian Wallis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=EE6DFF?lines=Backend+Developer+in+Progress)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=EE6DFF&lines=Backend+Developer+in+Progress)](https://git.io/typing-svg)<br/>
 🌱 I'm currently studying Systems Engineering at Francisco Jose de Caldas District University
 
 # 📊 Stats:
