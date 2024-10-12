@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning
+🌱 I'm currently studying Systems Engineering at Francisco Jose de Caldas District University
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Road+to+Backend+Developer;Second+line+of+text)](https://git.io/typing-svg)
 
