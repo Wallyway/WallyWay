@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I'm currently learning
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Road to Backend Developer;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Road+to+Backend+Developer;Second+line+of+text)](https://git.io/typing-svg)
 
 
 # 💻 Tech Stack:
