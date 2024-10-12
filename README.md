@@ -1,7 +1,7 @@
 ### Hello, I'm Sebastian Wallis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 🌱 I'm currently studying Systems Engineering at Francisco Jose de Caldas District University
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Road+to+Backend+Developer;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=On+the+path+to+becoming+a+Backend+Developer)](https://git.io/typing-svg)
 
 
 # 💻 Tech Stack:
